@@ -1,0 +1,4 @@
+sample.txt
+temp/
+*.log
+.metadata/
