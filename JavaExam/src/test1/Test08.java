@@ -21,5 +21,7 @@ public class Test08 {
 			
 			System.out.print("\n");
 		}
+		
+		
 	}
 }
