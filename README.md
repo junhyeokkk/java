@@ -1,9 +1,9 @@
-# Git Study
-> Git&Github 실습 원격 저장소
+# Java Study
+> Java 공부 및 실습 코드
 
-## 1.Git&Github 개요
-1) Git 설치
-2) Git bash 기본 명령어
+## ch01. Java 소개 및 개발환경 구축
+1) sub1
+> 
 
 ## MD 문법 참고
 https://www.naver.com
