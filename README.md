@@ -1,7 +1,7 @@
 # Java Study
 > Java 공부 및 실습 코드
 
-## ch01
+#### ch01
 > Java 소개 및 개발환경 구축
 
 ## ch02
