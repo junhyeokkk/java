@@ -46,8 +46,11 @@
 ### java_study_pdf
 > Java 공부 pdf 자료
 
+### JavaExam
+> Java 실습 연습문제
 
-
+### JavaFinalExam
+> Java 실습 최종 연습문제
 
 
 
